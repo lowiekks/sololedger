@@ -1,0 +1,8 @@
+sololedger/
+├── frontend/           # React-app
+├── backend/            # Node.js backend
+├── ai/                 # OCR en GPT-scripts
+├── database/           # SQL-scripts, schema's
+├── docs/               # Handleidingen en API-overzicht
+├── .gitignore
+└── README.md
